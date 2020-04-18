@@ -1,4 +1,4 @@
 # BoostersLearnToLand
 
-![Image of project]
-(https://github.com/exoflow/BoostersLearnToLand/blob/master/ProjectPreview.png)
+[Image of project]
+(ProjectPreview.png)
